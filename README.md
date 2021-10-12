@@ -2,7 +2,7 @@
 # Hi! 👋🏾
 
 I'm Juliano C. T. Vaz, and I'm a IOS Software Engineer 👨🏾‍💻
-- 🤷🏾‍♂️ Friends call me Juli or Xuli, or Ju, in worst case: JULIANO
+- 🤷🏾‍♂️ Friends call me Juli, Xuli, Julis, Julius, Ju, in worst case: JULIANO
 - 🚀 I’m currently learning Swift and SwiftUI
 - 🕺🏾 I’m the biggest Michael Jackson fan ever around the world
 - 💬 I’m interest in technology, software engineer topics, diversity and inclusion
