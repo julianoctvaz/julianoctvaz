@@ -10,7 +10,7 @@ I'm Juliano C. T. Vaz, and I'm a Software Engineer IOS 👨🏾‍💻
 - 💜 I'm a poems and songs writer
 - 📣 We can talk in: English or Portuguese
 - 😁 I like to play basketball, play my piano and my guitar, and drink a good beer 
-- - 😄 Pronouns: He/his/him
+- 😄 Pronouns: He/his/him
 - 📫 How to reach me? Acess: www.cin.ufpe.br/~jctv 
 
 
