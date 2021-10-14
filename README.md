@@ -6,7 +6,7 @@ I'm Juliano C. T. Vaz, and I'm a IOS Software Engineer 👨🏾‍💻
 - 🚀 I’m currently learning Swift and SwiftUI
 - 🕺🏾 I’m the biggest Michael Jackson fan ever around the world
 - 💬 I’m interest in technology, software engineer topics, diversity and inclusion
-- 👨🏾‍🔬 I'm (or was) a noob academic reseacher
+- 👨🏾‍🔬 I'm (or was) a newbie academic reseacher
 - 💜 I'm a poems and songs writer
 - 📣 We can talk in: English or Portuguese
 - 😁 I like to play basketball, play my piano and my guitar, and drink a good beer 
